@@ -1,0 +1,23 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      is-even:
+        specifier: git+https://github.com/enkhjile/is-even.git
+        version: git+https://github.com/enkhjile/is-even.git#1c0016866c04be4d9e3103cd58a71632353049ae
+
+packages:
+
+  is-even@git+https://github.com/enkhjile/is-even.git#1c0016866c04be4d9e3103cd58a71632353049ae:
+    resolution: {commit: 1c0016866c04be4d9e3103cd58a71632353049ae, repo: https://github.com/enkhjile/is-even.git, type: git}
+    version: 1.0.0
+
+snapshots:
+
+  is-even@git+https://github.com/enkhjile/is-even.git#1c0016866c04be4d9e3103cd58a71632353049ae: {}

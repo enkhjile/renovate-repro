@@ -1,0 +1,16 @@
+{
+  "name": "renovate-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.34.1",
+  "dependencies": {
+    "is-even": "git+https://github.com/enkhjile/is-even.git"
+  }
+}
