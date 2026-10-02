@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "packageManager": "pnpm@10.34.1",
+  "packageManager": "pnpm@10.34.6",
   "dependencies": {
     "is-even": "git+https://github.com/enkhjile/is-even.git"
   }
